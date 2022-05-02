@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/)
+[![website](https://cdn.freebiesupply.com/logos/large/2x/twitter-logo-svg-vector.svg)](https://twitter.com/)
 [![website](./img/twitter-dark.svg)](https://twitter.com/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ashish-agutale-705051216/)
