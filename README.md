@@ -13,8 +13,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ashish-agutale-705051216/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ashish-agutale-705051216/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/the_inquisitive_bawarchi/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/the_inquisitive_bawarchi/)
+[![website](img/instagram-light.svg)](https://www.instagram.com/the_inquisitive_bawarchi/)
+[![website](img/instagram-dark.svg)](https://www.instagram.com/the_inquisitive_bawarchi/)
 
 <!---
 ashishkaliba/ashishkaliba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
